@@ -1,7 +1,9 @@
 # IntelliSource-Blogging-web-App
 It is a Blogging website with an integrated Recommender system which recommend users with blogs of their interests.  It has attractive, Responsive and User-friendly interface.
 Certainly! Below is a comprehensive README file template for your IntelliSource project, including setup instructions:
-##Features
+
+## Features
+
 - **Recommender System**: Utilizes Python, pandas, scikit-learn, and scipy to recommend personalized content to users.
 - **Backend**: Developed using Node.js, Express.js, MongoDB, Mongoose, and hosted on MongoDB Atlas.
 - **APIs**: RESTful APIs implemented with Flask for the recommender system and Node.js for the backend.
